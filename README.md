@@ -280,6 +280,12 @@ BSc IT | Software & Mobile Application | Data Analytics
 
 ---
 
+## 🔗 Project Repository
+
+[![GitHub](https://img.shields.io/badge/GitHub-Cricket%20Analytics-black?logo=github)](https://github.com/vanshpatel2323/Cricket-Analytics)
+
+⭐ If you find this project useful, consider giving it a star!
+
 ## ⭐ Project Goal
 
 The goal of this project is to demonstrate practical skills in **Python, Pandas, NumPy, data cleaning, exploratory data analysis, statistical analysis, and data visualization** using real-world cricket data.
