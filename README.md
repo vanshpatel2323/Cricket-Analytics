@@ -1,10 +1,10 @@
-# 🏏 Cricket Analytics
+#  Cricket Analytics
 
 A data analytics project focused on cleaning, exploring, and analyzing cricket match data to discover meaningful patterns, trends, and performance insights.
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 **Cricket Analytics** uses Python and data analytics libraries to analyze IPL match-level data.
 
@@ -12,7 +12,7 @@ The project performs data cleaning, exploratory data analysis (EDA), statistical
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Clean and preprocess cricket match data
 * Explore IPL match statistics
@@ -26,22 +26,22 @@ The project performs data cleaning, exploratory data analysis (EDA), statistical
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-* 🧹 Data cleaning and preprocessing
-* 🔍 Exploratory Data Analysis (EDA)
-* 🏆 Team performance analysis
-* ⭐ Player of the Match analysis
-* 🪙 Toss decision analysis
-* 📈 Winning margin analysis
-* 🏟️ Venue analysis
-* 📅 Season-wise match analysis
-* 📊 Statistical exploration
-* 📉 Data visualization
+*  Data cleaning and preprocessing
+*  Exploratory Data Analysis (EDA)
+*  Team performance analysis
+*  Player of the Match analysis
+*  Toss decision analysis
+*  Winning margin analysis
+*  Venue analysis
+*  Season-wise match analysis
+*  Statistical exploration
+*  Data visualization
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python**
 * **Pandas**
@@ -52,7 +52,7 @@ The project performs data cleaning, exploratory data analysis (EDA), statistical
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Cricket-Analytics/
@@ -82,7 +82,7 @@ Cricket-Analytics/
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains **1,169 IPL match records** with **23 columns** covering information such as:
 
@@ -104,7 +104,7 @@ The dataset is used for match-level cricket analytics and exploratory analysis.
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the Repository
 
@@ -126,7 +126,7 @@ python -m pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Analysis
+##  Run the Analysis
 
 Navigate to the `src` folder:
 
@@ -144,7 +144,7 @@ The script loads the dataset, performs analysis, displays statistical results, a
 
 ---
 
-## 📓 Jupyter Notebook
+##  Jupyter Notebook
 
 The complete analysis is also available in:
 
@@ -168,78 +168,78 @@ The notebook contains step-by-step analysis including:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 Based on the analysis:
 
-### 🏆 Team Performance
+###  Team Performance
 
 **Mumbai Indians** recorded the highest number of wins in the dataset with **151 wins**.
 
-### ⭐ Player Performance
+###  Player Performance
 
 **AB de Villiers** recorded the highest number of Player of the Match awards with **25 awards**.
 
-### 🪙 Toss Analysis
+###  Toss Analysis
 
 Teams chose to **field first** more frequently than they chose to bat first after winning the toss.
 
 * Field: **764**
 * Bat: **405**
 
-### 📊 Winning by Runs
+###  Winning by Runs
 
 Among matches won by runs:
 
 * Average winning margin: **30.30 runs**
 * Maximum winning margin: **146 runs**
 
-### 🏏 Winning by Wickets
+###  Winning by Wickets
 
 Among matches won by wickets:
 
 * Average winning margin: **6.20 wickets**
 * Maximum winning margin: **10 wickets**
 
-### 🏟️ Venue Analysis
+###  Venue Analysis
 
 **Eden Gardens** recorded the highest number of matches in the analyzed venue data with **77 matches**.
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
-### 🏆 Team Performance
+###  Team Performance
 
 ![Top 10 IPL Teams by Wins](visualizations/team_wins.png)
 
-### ⭐ Player Performance
+###  Player Performance
 
 ![Top 10 Players by Player of the Match Awards](visualizations/top_players.png)
 
-### 📅 Matches by Season
+###  Matches by Season
 
 ![IPL Matches Played by Season](visualizations/matches_by_season.png)
 
-### 🪙 Toss Decisions
+###  Toss Decisions
 
 ![IPL Toss Decisions](visualizations/toss_decisions.png)
 
-### 📈 Winning Margin by Runs
+###  Winning Margin by Runs
 
 ![Distribution of Wins by Runs](visualizations/win_by_runs.png)
 
-### 🏏 Winning Margin by Wickets
+###  Winning Margin by Wickets
 
 ![Distribution of Wins by Wickets](visualizations/win_by_wickets.png)
 
-### 🏟️ Top IPL Venues
+###  Top IPL Venues
 
 ![Top 10 IPL Venues](visualizations/top_venues.png)
 
 ---
 
-## 🔍 Analysis Workflow
+##  Analysis Workflow
 
 ```text
 Dataset
@@ -259,7 +259,7 @@ Insights
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Add interactive dashboards using **Power BI**
 * Add advanced player performance metrics
@@ -272,7 +272,7 @@ Insights
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Vansh Patel**
 
@@ -284,10 +284,10 @@ BSc IT | Software & Mobile Application | Data Analytics
 
 [![GitHub](https://img.shields.io/badge/GitHub-Cricket%20Analytics-black?logo=github)](https://github.com/vanshpatel2323/Cricket-Analytics)
 
-⭐ If you find this project useful, consider giving it a star!
+ If you find this project useful, consider giving it a star!
 
 ---
 
-## ⭐ Project Goal
+##  Project Goal
 
 The goal of this project is to demonstrate practical skills in **Python, Pandas, NumPy, data cleaning, exploratory data analysis, statistical analysis, and data visualization** using real-world cricket data.
