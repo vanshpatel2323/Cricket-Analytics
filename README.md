@@ -280,7 +280,7 @@ BSc IT | Software & Mobile Application | Data Analytics
 
 ---
 
-## 🔗 Project Repository
+##  Project Repository
 
 [![GitHub](https://img.shields.io/badge/GitHub-Cricket%20Analytics-black?logo=github)](https://github.com/vanshpatel2323/Cricket-Analytics)
 
