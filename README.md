@@ -209,17 +209,33 @@ Among matches won by wickets:
 
 ## 📊 Visualizations
 
-The project generates visualizations for:
+### 🏆 Team Performance
 
-| Visualization           | Description                                  |
-| ----------------------- | -------------------------------------------- |
-| `team_wins.png`         | Top 10 teams by wins                         |
-| `top_players.png`       | Top 10 players by Player of the Match awards |
-| `matches_by_season.png` | Matches played across seasons                |
-| `toss_decisions.png`    | Toss decision distribution                   |
-| `win_by_runs.png`       | Distribution of winning margins by runs      |
-| `win_by_wickets.png`    | Distribution of winning margins by wickets   |
-| `top_venues.png`        | Top 10 venues by number of matches           |
+![Top 10 IPL Teams by Wins](visualizations/team_wins.png)
+
+### ⭐ Player Performance
+
+![Top 10 Players by Player of the Match Awards](visualizations/top_players.png)
+
+### 📅 Matches by Season
+
+![IPL Matches Played by Season](visualizations/matches_by_season.png)
+
+### 🪙 Toss Decisions
+
+![IPL Toss Decisions](visualizations/toss_decisions.png)
+
+### 📈 Winning Margin by Runs
+
+![Distribution of Wins by Runs](visualizations/win_by_runs.png)
+
+### 🏏 Winning Margin by Wickets
+
+![Distribution of Wins by Wickets](visualizations/win_by_wickets.png)
+
+### 🏟️ Top IPL Venues
+
+![Top 10 IPL Venues](visualizations/top_venues.png)
 
 ---
 
